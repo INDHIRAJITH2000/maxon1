@@ -1,0 +1,6 @@
+@media(max-width:778px){
+  div{
+    overflow-x: hidden;
+  }
+
+}
